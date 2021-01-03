@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Offer app</string>
+    <string name="title_home">HOME</string>
+    <string name="title_search">SEARCH</string>
+    <string name="title_cart">CART</string>
+    <string name="title_account">ACCOUNT</string>
+    <string name="dummy_location_city">Guindy, Chennai</string>
+
+    <string name="search_hint">Search offers, restaurants, salons..</string>
+    <string name="popular_title">Popular Searches</string>
+    <string name="popular_eg1">Beauty parlor</string>
+    <string name="popular_eg2">Restaurant</string>
+    <string name="popular_eg3">Furniture n Kitchen</string>
+    <string name="offers_nearby">Offers nearby</string>
+
+    <string-array name="locations">
+        <item>Pondicherry</item>
+        <item>Chennai</item>
+        <item>Bangalore</item>
+    </string-array>
+</resources>
